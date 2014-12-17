@@ -15,15 +15,15 @@ other languages.
 problems in Haskell or Erlang!**
 
 ### Table of Contents
-* [Abstractions](../CONTRIBUTING.md#abstractions)
-* [Code Arrangement](../CONTRIBUTING.md#code-arrangement)
-* [config.json](../CONTRIBUTING.md#configjson)
-* [Existing Language Tracks](../CONTRIBUTING.md#existing-language-tracks)
-* [New Language Tracks](../CONTRIBUTING.md#new-language-tracks)
-* [Problem Sets](../CONTRIBUTING.md#problem-sets)
-* [Metadata](../CONTRIBUTING.md#metadata)
-* [CLI](../CONTRIBUTING.md#cli)
-* [Problem API](../CONTRIBUTING.md#problem-api)
+* [Abstractions](#abstractions)
+* [Code Arrangement](#code-arrangement)
+* [config.json](#configjson)
+* [Existing Language Tracks](#existing-language-tracks)
+* [New Language Tracks](#new-language-tracks)
+* [Problem Sets](#problem-sets)
+* [Metadata](#metadata)
+* [CLI](#cli)
+* [Problem API](#problem-api)
 
 
 ### Abstractions
