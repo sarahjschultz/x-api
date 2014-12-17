@@ -15,7 +15,7 @@ other languages.
 problems in Haskell or Erlang!**
 
 ### Table of Contents
-* [Definitions](../CONTRIBUTING.md#abstractions)
+* [Abstractions](../CONTRIBUTING.md#abstractions)
 * [Code Arrangement](../CONTRIBUTING.md#code-arrangement)
 * [config.json](../CONTRIBUTING.md#configjson)
 * [Existing Language Tracks](../CONTRIBUTING.md#existing-language-tracks)
